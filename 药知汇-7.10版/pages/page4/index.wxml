@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d4.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="奥硝唑葡萄糖注射液" is-link url="/pages/page4/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="加替沙星片" is-link url="/pages/page4/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="齐多夫定片" is-link url="/pages/page4/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸洛美沙星分散片" is-link url="/pages/page4/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸伐昔洛韦片" is-link url="/pages/page4/index5">
+    </i-cell>
+</i-cell-group>

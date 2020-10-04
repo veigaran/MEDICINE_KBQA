@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+       <view class="goods_details" data-index="0">甘油磷酸钠注射液</view>
+        <view class="goods-content">
+            <view> 本品为无色或几乎无色的澄明液体。本品为营养药，适用于：1、成人肠外营养的磷补充剂。2、磷缺乏病人。静脉滴注。本品每天用量通常为一支（10ml）。
+</view>
+   
+        </view>
+    </view>
+    
+  </view>

@@ -1,0 +1,29 @@
+
+<i-grid>
+    <i-grid-item>
+     <l-avatar  shape="circle" open-data="{{['userAvatarUrl','userNickName']}}" />
+    </i-grid-item>
+    
+</i-grid>
+<text>\n</text>
+
+
+<i-cell-group>
+    <i-cell title="数据来源" is-link url="/pages/laiyuan/index">
+        <i-con type="activity" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+    <text>\n</text>
+    <i-cell title="模型介绍" is-link url="/pages/moxingjieshao/index" only-tap-footer>
+      <i-con type="collection" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+    <text>\n</text>
+    <i-cell  title="检索示例" is-link url="/pages/jiansuolizi/index" only-tap-footer>
+        <i-con type="search" size="20" color="#80848f" slot="icon" />
+     </i-cell>
+    <text>\n</text>
+    <i-cell title="关于我们" is-link url="/pages/about_us/index">
+        <i-con type="success" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+    <text>\n</text>
+</i-cell-group>
+

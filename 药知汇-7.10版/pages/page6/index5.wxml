@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">咖啡酸片</view>
+        <view class="goods-content">
+            <view>本品为淡黄色片，味微酸。用于外科手术时预防出血或止血，以及内科、妇产科等出血性疾病的止血。也用于各种原因引起的白细胞减少症、血小板减少症。
+</view>
+   
+        </view>
+    </view>
+
+</view>

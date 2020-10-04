@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">苦参素片</view>
+        <view class="goods-content">
+            <view> 本品为薄膜薄衣片，除去薄衣后显白色或类白色。用于慢性乙型肝炎的治疗。口服。成人每次0.2g（2片），每日3次，必要时可每次服0.3g（3片）。常见的不良反应有恶心、呕吐、口苦腹泻、上腹不适或疼痛，偶见皮疹、胸闷、发热，症状一般可自行缓解。
+</view>
+   
+        </view>
+    </view>
+    
+  </view>

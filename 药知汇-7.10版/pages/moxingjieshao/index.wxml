@@ -1,0 +1,33 @@
+<view class="main">
+
+    <view class="goods-box">
+        <image src="/image/f1.jpg" class="goods-thumb" mode="aspectFill"></image>
+    </view>
+
+    <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">BI-LSTM-CRF</view>
+        <view class="pic"><text>\n</text><image  src="/image/lstm.png" > </image></view>
+        <view class="text_center"><text>图1：Bi-LSTM-CRF模型结构\n</text></view>
+         <view class="pic"><text>\n</text><image  src="/image/lstm1.png" > </image></view>
+        <view class="text_center"><text>表1：Bi-LSTM-CRF模型参数\n</text></view>
+        <view class="pic"><text>\n</text><image  src="/image/lstm2.png" > </image></view>
+        <view class="text_center"><text>表2：10折评价结果\n</text></view>
+    </view>
+
+    <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">SVM分类器</view>
+        <view class="pic"><text>\n</text><image  src="/image/svm.png" > </image></view>
+        <view class="text_center"><text>图2：SVM分类器结构\n</text></view>
+         <view class="pic"><text>\n</text><image  src="/image/svm1.png" > </image></view>
+        <view class="text_center"><text>图3：SVM训练流程\n</text></view>
+         <view class="pic"><text>\n</text><image  src="/image/svm2.png" > </image></view>
+        <view class="text_center"><text>表3：9类分类意图\n</text></view>
+         <view class="pic"><text>\n</text><image  src="/image/svm3.png" > </image></view>
+        <view class="text_center"><text>表4：分类器评价\n</text></view>
+    </view>
+
+
+
+
+
+</view>

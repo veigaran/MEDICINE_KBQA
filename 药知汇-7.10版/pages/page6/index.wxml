@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d6.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="二乙酰氨乙酸乙二胺氯化钠注射液" is-link url="/pages/page6/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸噻氯匹定缓释片" is-link url="/pages/page6/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="苦参素片" is-link url="/pages/page6/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="山梨醇铁注射液" is-link url="/pages/page6/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="咖啡酸片" is-link url="/pages/page6/index5">
+    </i-cell>
+</i-cell-group>

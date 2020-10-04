@@ -1,0 +1,12 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+       <view class="goods_details" data-index="0">葛根素氯化钠注射液</view>
+        <view class="goods-content">
+            <view>本品为无色或几乎无色的澄明液体。适用于冠心病心绞痛心肌梗塞视网膜动静脉阻塞突发性耳聋的治疗。</view>
+   
+        </view>
+    </view>
+
+</view>

@@ -1,0 +1,11 @@
+
+{
+  "component": true,
+  "usingComponents": {
+    "l-collapse": "/components/linui/collapse/index",
+    "l-collapse-item": "/components/linui/collapse-item/index",
+    "i-cell-group": "/components/dist/cell-group/index",
+    "i-cell": "/components/dist/cell/index",
+    "i-con": "/components/dist/icon/index"
+  }
+}

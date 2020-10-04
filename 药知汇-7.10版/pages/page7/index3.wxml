@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">盐酸川芎嗪注射液</view>
+        <view class="goods-content">
+            <view> 本品为无色的澄明液体。用于闭塞性脑血管疾病如脑供血不全、脑血栓形成、脑栓塞及其他缺血性血管疾病如冠心病、脉管炎等。</view>
+   
+   
+        </view>
+    </view>
+    
+  </view>

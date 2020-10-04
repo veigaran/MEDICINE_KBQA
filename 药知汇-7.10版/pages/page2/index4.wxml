@@ -1,0 +1,17 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">红霉素片
+</view>
+        <view class="goods_details" data-index="0">葡醛内酯片
+</view>
+        <view class="goods-content">
+            <view>本品为白色片。用于急慢性肝炎的辅助治疗。口服。成人一次1-2片，一日3次。5岁以下小儿一次半片；5岁以上一次1片，一日3次。偶有面红、轻度胃肠不适，减量或停药后即消失。
+ </view>
+   
+        </view>
+    </view>
+    
+ 
+</view>

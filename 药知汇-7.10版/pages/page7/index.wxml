@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d7.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="吉非罗齐胶囊" is-link url="/pages/page7/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="硝苯地平片" is-link url="/pages/page7/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸川芎嗪注射液" is-link url="/pages/page7/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="果糖二磷酸钠注射液" is-link url="/pages/page7/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="葛根素氯化钠注射液" is-link url="/pages/page7/index5">
+    </i-cell>
+</i-cell-group>

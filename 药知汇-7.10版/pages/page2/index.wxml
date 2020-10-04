@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d2.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="拉克替醇散" is-link url="/pages/page2/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="亮菌口服溶液 " is-link url="/pages/page2/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="注射用门冬氨酸鸟氨酸" is-link url="/pages/page2/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="葡醛内酯片" is-link url="/pages/page2/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="二氯乙酸二异丙胺片" is-link url="/pages/page2/index5">
+    </i-cell>
+</i-cell-group>

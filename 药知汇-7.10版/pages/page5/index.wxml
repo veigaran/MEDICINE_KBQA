@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d5.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="L-谷氨酰胺胶囊" is-link url="/pages/page5/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="注射用丙氨酰谷氨酰胺" is-link url="/pages/page5/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title=">甘油磷酸钠注射液" is-link url="/pages/page5/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="硫酸氨基葡萄糖胶囊" is-link url="/pages/page5/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸氨基葡萄糖颗粒" is-link url="/pages/page5/index5">
+    </i-cell>
+</i-cell-group>

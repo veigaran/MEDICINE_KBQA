@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">注射用门冬氨酸鸟氨酸</view>
+        <view class="goods-content">
+            <view> 本品为白色或类白色的疏松块状物。治疗因急、慢性肝病如肝硬化、脂肪肝、肝炎所致的高血氨症，特别适用于因肝脏疾患引起的中枢神经系统症状的解除及肝昏迷的抢救。
+</view>
+   
+        </view>
+    </view>
+    
+  </view>

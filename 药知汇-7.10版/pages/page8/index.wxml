@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d8.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="盐酸昂丹司琼注射液" is-link url="/pages/page8/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="达沙替尼片" is-link url="/pages/page8/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="甲磺酸伊马替尼胶囊" is-link url="/pages/page8/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="克唑替尼胶囊" is-link url="/pages/page8/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="醋酸甲羟孕酮片" is-link url="/pages/page8/index5">
+    </i-cell>
+</i-cell-group>

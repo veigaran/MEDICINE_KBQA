@@ -1,0 +1,14 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+         <view class="goods_details" data-index="0">二氯乙酸二异丙胺片</view>
+        <view class="goods-content">
+            <view>本品为胶囊剂，内容物为白色至类白色粉末或颗粒。用于慢性肝脏疾病引起的肝功能损害。通常成人一日1～3粒(20～60mg)，分2～3次口服。服药剂量应随患者年龄和症状适当调整。
+
+</view>
+   
+        </view>
+    </view>
+
+</view>

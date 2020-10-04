@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+       <view class="goods_details" data-index="0">盐酸利多卡因注射液</view>
+        <view class="goods-content">
+            <view> 本品为无色的澄明液体。为局麻药及抗心律失常药。主要用于浸润麻醉、硬膜外麻醉、表面麻醉(包括在胸腔镜检查或腹腔手术时作黏膜麻醉用)及神经传导阻滞。本品也可用于急性心肌梗死后室性早搏和室性心动过速，亦可用于洋地黄类中毒、心脏外科手术及心导管引起的室性心律失常。本品对室上性心律失常通常无效
+
+</view>
+        </view>
+    </view>
+    
+  </view>

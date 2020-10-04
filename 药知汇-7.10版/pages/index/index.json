@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "i-grid": "/components/dist/grid/index",
+    "i-grid-item": "/components/dist/grid-item/index",
+    "i-grid-icon": "/components/dist/grid-icon/index",
+    "i-grid-label": "/components/dist/grid-label/index",
+    "i-tab-bar": "/components/dist/tab-bar/index",
+    "i-tab-bar-item": "/components/dist/tab-bar-item/index",
+    "tabbar_home":"/pages/component/home/index",
+    "tabbar_class": "/pages/component/class/index",
+    "tabbar_about": "/pages/component/about/index"
+  }
+}

@@ -1,0 +1,49 @@
+<view class="main">
+ <view class="banner">
+        <image src="/image/d1.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="阿维A胶囊" is-link url="/pages/page1/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="硝酸舍他康唑乳膏" is-link url="/pages/page1/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="阿昔洛韦缓释片" is-link url="/pages/page1/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="红霉素片" is-link url="/pages/page1/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="射用盐酸诺氟沙星" is-link url="/pages/page1/index5">
+    </i-cell>
+</i-cell-group>
+ <i-cell-group>
+    <i-cell title="盐酸特比萘芬乳膏" is-link url="/pages/page1/index5">
+    </i-cell>
+</i-cell-group>
+ <i-cell-group>
+    <i-cell title="维生素E乳" is-link url="/pages/page1/index5">
+    </i-cell>
+</i-cell-group>
+ <i-cell-group>
+    <i-cell title="尿素软膏" is-link url="/pages/page1/index5">
+    </i-cell>
+</i-cell-group> <i-cell-group>
+    <i-cell title="盐酸奥洛他定片" is-link url="/pages/page1/index5">
+    </i-cell>
+</i-cell-group>
+ <i-cell-group>
+    <i-cell title="复方苯佐卡因凝胶" is-link url="/pages/page1/index5">
+    </i-cell>
+</i-cell-group>

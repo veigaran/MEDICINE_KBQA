@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d3.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="托卡朋片" is-link url="/pages/page3/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸罗匹尼罗片" is-link url="/pages/page3/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="卡比多巴片" is-link url="/pages/page3/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="甲磺酸雷沙吉兰片" is-link url="/pages/page3/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="细辛脑片" is-link url="/pages/page3/index5">
+    </i-cell>
+</i-cell-group>

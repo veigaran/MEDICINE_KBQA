@@ -1,0 +1,14 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+         <view class="goods_details" data-index="0">细辛脑片</view>
+        <view class="goods-content">
+            <view>本品为白色片。用于支气管炎和支气管哮喘。口服。成人一次60mg（一次2片），一日3次。儿童按体重一日4～5mg/kg，分2～3次服用。
+
+</view>
+   
+        </view>
+    </view>
+
+</view>

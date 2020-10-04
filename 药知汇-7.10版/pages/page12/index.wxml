@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d12.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="格列齐特缓释片" is-link url="/pages/page12/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="别嘌醇片" is-link url="/pages/page12/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="枸橼酸他莫昔芬片 " is-link url="/pages/page12/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="伏格列波糖片" is-link url="/pages/page12/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="苯甲酸雌二醇注射液" is-link url="/pages/page12/index5">
+    </i-cell>
+</i-cell-group>

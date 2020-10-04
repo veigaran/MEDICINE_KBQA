@@ -1,0 +1,14 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">注射用甲磺酸齐拉西酮
+</view>
+        <view class="goods-content">
+            <view> 本品为白色至类白色的冻干块状物和粉末。本品按照说明书配制后为每1mL溶液中含有20mg齐拉西酮的澄清溶液（总体积1.5ml）。本品适用于治疗精神分裂症患者的急性激越症状。
+</view>
+   
+        </view>
+    </view>
+    
+  </view>

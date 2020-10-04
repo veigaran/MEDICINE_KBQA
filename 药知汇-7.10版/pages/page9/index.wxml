@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d9.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="米索前列醇片" is-link url="/pages/page9/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="硫酸沙丁胺醇片" is-link url="/pages/page9/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="缩宫素注射液" is-link url="/pages/page9/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="醋酸甲地孕酮胶囊" is-link url="/pages/page9/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="己烯雌酚片" is-link url="/pages/page9/index5">
+    </i-cell>
+</i-cell-group>

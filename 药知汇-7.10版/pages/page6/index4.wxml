@@ -1,0 +1,15 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+         <view class="goods_details" data-index="0">山梨醇铁注射液
+</view>
+        <view class="goods-content">
+            <view>本品为深棕色胶体溶液。一般不做首选铁剂。主要用于预防和治疗各种不宜口服铁剂者，如溃疡性结肠炎；或口服治疗无效的缺铁性贫血；或者是需要迅速纠正贫血状况者。
+ </view>
+   
+        </view>
+    </view>
+    
+ 
+</view>

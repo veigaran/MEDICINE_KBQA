@@ -1,0 +1,93 @@
+{
+  "id": "1924211",
+  "name": "药物",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "100590",
+      "name": "医药箱",
+      "font_class": "weibiaoti2",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "2468466",
+      "name": "5类医药用品x16",
+      "font_class": "leiyiyaoyongpinx",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "5049964",
+      "name": "医药-试管",
+      "font_class": "yiyao-shiguan",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "5049968",
+      "name": "医药-温度计",
+      "font_class": "yiyao-wenduji",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "5049975",
+      "name": "医药-医保卡",
+      "font_class": "yiyao-yibaoqia",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "8954776",
+      "name": "行业icon_医药保健",
+      "font_class": "kcb_hangyeicon-",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "9074001",
+      "name": "5_7医药卫生",
+      "font_class": "_yiyaoweisheng",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "11086677",
+      "name": "医药健康",
+      "font_class": "yiyaojiankang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "12319733",
+      "name": "医药制造业",
+      "font_class": "yiyao",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "13098431",
+      "name": "旅行_医药箱",
+      "font_class": "travel_journey-",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "13354906",
+      "name": "药物",
+      "font_class": "yaowu",
+      "unicode": "ea43",
+      "unicode_decimal": 59971
+    },
+    {
+      "icon_id": "13646815",
+      "name": "药物",
+      "font_class": "yaowu1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

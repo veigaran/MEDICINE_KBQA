@@ -1,0 +1,16 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+       <view class="goods_details" data-index="0">己烯雌酚片</view>
+        <view class="goods-content">
+            <view>本品为白色片。用于：1. 补充体内雌激素不足，如萎缩性阴道炎、女性性腺发育不良、绝经期综合征、老年性外阴干枯症及阴道炎、卵巢切除后、原发性卵巢缺如。
+2. 乳腺癌、绝经后及男性晚期乳腺癌、不能进行手术治疗者。
+3. 前列腺癌不能手术治疗的晚期患者。
+4. 预防产后泌乳、退（或回）乳。
+
+</view>
+        </view>
+    </view>
+
+</view>

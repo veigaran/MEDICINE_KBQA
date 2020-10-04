@@ -1,0 +1,109 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/wxml/index",
+    "pages/logs/logs",
+    "custom-tab-bar/index",
+    "pages/component/class/index",
+    "pages/component/home/index",
+    "pages/component/about/index",
+    "pages/page1/index",
+    "pages/page1/index1",
+    "pages/page1/index2",
+    "pages/page1/index3",
+    "pages/page1/index4",
+    "pages/page1/index5",
+    "pages/page2/index1",
+    "pages/page2/index2",
+    "pages/page2/index3",
+    "pages/page2/index4",
+    "pages/page2/index5",
+    "pages/page2/index",
+    "pages/page3/index1",
+    "pages/page3/index2",
+    "pages/page3/index3",
+    "pages/page3/index4",
+    "pages/page3/index5",
+    "pages/page3/index",
+
+  
+    "pages/page4/index1",
+    "pages/page4/index2",
+    "pages/page4/index3",
+    "pages/page4/index4",
+    "pages/page4/index5",
+    "pages/page4/index",
+
+    "pages/page5/index1",
+    "pages/page5/index2",
+    "pages/page5/index3",
+    "pages/page5/index4",
+    "pages/page5/index5",
+    "pages/page5/index",
+
+    "pages/page6/index",
+    "pages/page6/index1",
+    "pages/page6/index2",
+    "pages/page6/index3",
+    "pages/page6/index4",
+    "pages/page6/index5",
+
+    "pages/page7/index",
+    "pages/page7/index1",
+    "pages/page7/index2",
+    "pages/page7/index3",
+    "pages/page7/index4",
+    "pages/page7/index5",
+  
+    
+    "pages/page8/index1",
+    "pages/page8/index2",
+    "pages/page8/index3",
+    "pages/page8/index4",
+    "pages/page8/index5",
+    "pages/page8/index",
+
+    "pages/page9/index1",
+    "pages/page9/index2",
+    "pages/page9/index3",
+    "pages/page9/index4",
+    "pages/page9/index5",
+    "pages/page9/index",
+
+    "pages/page10/index1",
+    "pages/page10/index2",
+    "pages/page10/index3",
+    "pages/page10/index4",
+    "pages/page10/index5",
+    "pages/page10/index",
+
+    "pages/page11/index1",
+    "pages/page11/index2",
+    "pages/page11/index3",
+    "pages/page11/index4",
+    "pages/page11/index5",
+    "pages/page11/index",
+
+    "pages/page12/index1",
+    "pages/page12/index2",
+    "pages/page12/index3",
+    "pages/page12/index4",
+    "pages/page12/index5",
+    "pages/page12/index",
+    "pages/laiyuan/index",
+    "pages/moxingjieshao/index",
+    "pages/jiansuolizi/index",
+    "pages/kefu/index",
+    "pages/about_us/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "药知汇",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap69.json"
+
+  
+
+}

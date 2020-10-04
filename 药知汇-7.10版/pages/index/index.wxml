@@ -1,0 +1,20 @@
+
+ <view hidden="{{current=='homepage'?false: true}}">
+  <tabbar_home/>
+ </view>
+  <view hidden="{{current=='group'?false: true}}">
+  <tabbar_class/>
+ </view>
+  <view hidden="{{current=='mine'?false: true}}">
+  <tabbar_about/>
+ </view>
+
+
+<i-tab-bar current="{{ current }}" color="#007aff" bindchange="handleChange" fixed="true"> 
+    <i-tab-bar-item key="homepage" icon="homepage" current-icon="homepage_fill" title="首页"></i-tab-bar-item>
+ <i-tab-bar-item key="group" icon="activity"  current-icon="activity_fill" title="药品分类"></i-tab-bar-item> 
+    <i-tab-bar-item key="mine" icon="mine" current-icon="mine_fill" title="关于"></i-tab-bar-item>
+</i-tab-bar>
+
+
+

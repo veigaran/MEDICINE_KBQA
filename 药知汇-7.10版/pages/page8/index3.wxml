@@ -1,0 +1,14 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">甲磺酸伊马替尼胶囊</view>
+        <view class="goods-content">
+            <view> 本品为胶囊剂，内容物为白色至淡黄色粉末或颗粒。用于治疗费城染色体阳性的慢性髓性白血病（Ph+CML）的慢性期、加速期货急变期。</view>
+   
+        </view>
+   
+   
+    </view>
+    
+  </view>

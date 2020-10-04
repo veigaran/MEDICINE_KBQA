@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d10.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="盐酸哌替啶注射液" is-link url="/pages/page10/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸哌替啶注射液 " is-link url="/pages/page10/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸利多卡因注射液" is-link url="/pages/page10/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="盐酸普鲁卡因注射液" is-link url="/pages/page10/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="依托咪酯注射液" is-link url="/pages/page10/index5">
+    </i-cell>
+</i-cell-group>

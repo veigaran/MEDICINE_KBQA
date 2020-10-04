@@ -1,0 +1,23 @@
+<view class="main">
+    
+
+
+    <view class="goods-box">
+        <image src="/image/f2.jpg" class="goods-thumb" mode="aspectFill"></image>
+    </view>
+    <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">检索示例</view>
+        <view class="goods-content">
+            <view>
+            <text class="l_text">药物名称：xxx的别名是什么？\n</text>
+            <text class="l_text">成分：xxx的成分是什么？\n</text>
+            <text class="l_text">适用症：xxx要吃什么药？\n</text>
+            <text class="l_text">用法用量：xxx怎么吃？\n</text>
+            <text class="l_text">注意事项：xxx有哪些注意事项？\n</text>
+            <text class="l_text">不良反应：xxx的不良反应是什么？\n</text>
+            <text class="l_text">症状对应药：xxx可以吃什么药？\n</text>
+        </view>
+   
+        </view>
+    </view>
+</view>

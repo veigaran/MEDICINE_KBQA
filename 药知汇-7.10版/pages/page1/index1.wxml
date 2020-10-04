@@ -1,0 +1,76 @@
+<view class="main">
+
+<view class="goods-tab-box">
+        <view class="goods_details" data-index="0">阿维A胶囊</view>
+        <view class="goods-content">
+        <view class="yao_title">【药品名称】</view> 
+        <view class="yao_desc">通用名称：阿维A胶囊<text>\n</text>
+                              英文名称：Acitretin Capsules<text>\n</text>
+                              商品名称：新体卡松<text>\n</text>
+        </view>
+        <text>\n</text>
+        <view class="yao_title">【成份】</view> 
+        <view class="yao_desc">全反式-9-(4-甲氧基-2 ，3 ，6-三甲基苯基)-3，
+        7- 二甲基-2，4，6，8-壬四烯酸<text>\n</text>                       
+        </view>
+        <text>\n</text>
+
+        <view class="yao_title">【适应症】</view> 
+        <view class="yao_desc">严重银屑病患包括:红皮性银屑病、局部性或全身性脓疱银屑病。<text>\n</text>
+                              严重角质化疾患:例如先天型鱼鳞病、毛发红糠疹、毛囊角化病、
+                              对其他治疗有抗药性可能的角质化疾患。<text>\n</text>
+        </view>
+        <text>\n</text>
+
+        <view class="yao_title">【用法用量】</view> 
+        <view class="yao_desc">
+        阿维A的剂量应当根据个体情况进行调整， 因为各人药物的吸收及代谢率存在差异。最好为每日一次服药，并且与食物或奶同服。以下为一般指导量：<text>\n</text>
+        成人<text>\n</text>
+        初始量25毫克（25毫克胶囊一粒）或30毫克（10毫克胶囊三粒）服用2~4周后可获得满意效果。<text>\n</text>
+        维持量必须根据临床疗效和耐受性来决定。一般每日25毫克~50毫克服用6-8周常可获得理想疗效。<text>\n</text>
+        在某些病例，有时需要将剂量增大至最大75毫克／日(25毫克胶囊三粒)。<text>\n</text>
+        当大部分银屑病皮损消退后可停止服用。复发病例可用上述方法重新治疗。<text>\n</text>
+        在角化异常性疾病，常需要维持疗法，不过应当使用尽可能小的剂量，如20毫克／日，一般不应超过50毫克／日。<text>\n</text>
+儿童<text>\n</text>
+考虑到长期治疗可能出现的严重副作用，因此应慎重评估治疗的副作用和疗效的平衡。一般只有当其他疗法不能使用时才能应用阿维A酸。<text>\n</text>
+剂量应根据患者体重进行计算，每日剂量约为0.5毫克／千克，部分病例可短时间使用大剂量（高达1毫克／千克／日）药物，但最大不能超过35毫克／日。考虑到长期治疗的副作用，维持剂量应控制在尽可能低水平。<text>\n</text>
+        </view>
+        <text>\n</text>
+
+        <view class="yao_title">【不良反应】</view> 
+        <view class="yao_desc">服用本品的患者大多数会发生一些不良反应。这种不良反应往往在减量或停药后消失，在治疗开始阶段有时可见银屑病症状有所加重。<text>\n</text>  
+最多见的不良反应为维生素A过多症的表现如嘴唇干燥，使用脂性软膏可使该不良反应减轻。<text>\n</text>  
+粘膜和移行上皮可发生干燥或发生炎症性损害。有时这种情况会导致鼻出血和鼻炎，眼部症状（干眼症、结膜炎）和对角膜眼镜片的不耐受。角膜溃疡罕见。<text>\n</text>  
+还可发生唇炎、口角皲裂、口腔干燥和口渴。偶有发生口炎、齿龈炎及味觉异常者。<text>\n</text>  
+在本品治疗过程中，由白色念珠茵所致的外阴阴道炎的发生率也有所上升。<text>\n</text>                       
+        </view>
+        <text>\n</text>
+
+         <view class="yao_title">【禁忌】</view> 
+        <view class="yao_desc">本品具有高度致畸性，禁止用于妊娠妇女，育龄期妇女在服用本品前4周内，在服药期间以及服药后2年内应严格避孕<text>\n</text>  
+育龄期妇女也不能接受正在服用本品的患者的血液，服用药物的患者在服药期间以及停药后一年内禁止献血。<text>\n</text>  
+本品禁用于有严重肝肾功能损害的患者，也不能用于慢性高血脂症的患者。<text>\n</text>  
+因为和四环素均可引起颅内压升高，因此禁止这两者药物联合应用。<text>\n</text>                       
+        </view>
+        <text>\n</text>
+
+        <view class="yao_title">【注意事项】</view> 
+        <view class="yao_desc">本品必须在医生指导下使用，且这些医生应当具有全身应用维甲酸的经验，并了解阿维A疗法具有致畸危险。<text>\n</text>  
+育龄期妇女严禁在本品治疗过程中饮酒，因为临床证据显示二者联合应用有形成阿维A酯的可能。这一代谢过程的机制尚不清楚，因此，尚不知道其它一些有相互作用的化学物有无此可能。在阿维A疗法结束后2个月内应避免饮酒。<text>\n</text>                       
+        </view>
+        <text>\n</text>
+
+        
+        <view class="yao_title">【药物相互作用】</view> 
+        <view class="yao_desc">该药不能与维生素A和其它维甲酸类药物同时使用，因为可导致维生素A过多症。<text>\n</text>  
+本品对香豆素类抗凝药（华法令）的蛋白结合率无影响。<text>\n</text>  
+本品与苯妥英同时使用可降低苯妥英的蛋白结合率。<text>\n</text>                       
+        </view>
+        <text>\n</text>
+
+        </view>
+    </view>
+  </view>
+ 
+    
+ 

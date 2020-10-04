@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+         <view class="goods_details" data-index="0">盐酸氨基葡萄糖颗粒</view>
+        <view class="goods-content">
+            <view>本品为白色或类白色颗粒，味甜。全身所有部位的骨关节炎的治疗和预防，包括膝关节、髋关节、脊柱、肩、手和手腕、踝关节等。口服。一次0.24克～0.48克，一日3次，或遵医嘱。一般疗程4～12周，如有必要在医师指导下可延长服药时间。每年重复治疗2～3次。
+</view>
+   
+        </view>
+    </view>
+
+</view>

@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">卡比多巴片</view>
+        <view class="goods-content">
+            <view> 本品为类白色片。与左旋多巴联合应用，用于帕金森病和帕金森综合征。
+</view>
+   
+        </view>
+    </view>
+    
+  </view>

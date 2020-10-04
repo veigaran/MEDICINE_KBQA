@@ -1,0 +1,9 @@
+{
+  "component":true,
+  "usingComponents":{
+    "i-cell-group": "/components/dist/cell-group/index",
+    "i-cell": "/components/dist/cell/index"
+  },
+  "navigationBarTitleText": "血液系统药物"
+}
+

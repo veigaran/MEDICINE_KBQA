@@ -1,0 +1,30 @@
+<view class="main">
+<view class="banner">
+        <image src="/image/d11.jpg" mode="aspectFill"></image>
+ </view>
+</view>
+
+ <i-cell-group>
+    <i-cell title="棕榈酸帕利哌酮注射液" is-link url="/pages/page11/index1">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="碳酸锂缓释片" is-link url="/pages/page11/index2">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="注射用甲磺酸齐拉西酮" is-link url="/pages/page11/index3">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="舒必利片" is-link url="/pages/page11/index4">
+    </i-cell>
+</i-cell-group>
+
+ <i-cell-group>
+    <i-cell title="氟哌啶醇片" is-link url="/pages/page11/index5">
+    </i-cell>
+</i-cell-group>

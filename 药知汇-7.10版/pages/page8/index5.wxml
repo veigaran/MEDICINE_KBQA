@@ -1,0 +1,14 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">醋酸甲羟孕酮片</view>
+        <view class="goods-content">
+            <view>本品为白色片。可用于月经不调、功能性子宫出血及子宫内膜异位症等。还可用于晚期乳腺癌、子宫内膜癌。</view>
+   
+        </view>
+   
+        </view>
+
+
+</view>

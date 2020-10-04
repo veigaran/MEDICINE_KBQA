@@ -1,0 +1,15 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">红霉素片
+</view>
+        <view class="goods-content">
+            <view>本品为肠溶衣片，除去包衣后显白色或类白色。本品作为青霉素过敏患者治疗下列感染的替代用药：溶血性链球菌、肺炎链球菌等所致的急性扁桃体炎、急性咽炎、鼻窦炎；溶血性链球菌所致的猩红热、蜂窝织炎；白喉及白喉带菌者；气性坏疽、炭疽、破伤风；放线菌病；梅毒；李斯特菌病等。
+ </view>
+   
+        </view>
+    </view>
+    
+ 
+</view>

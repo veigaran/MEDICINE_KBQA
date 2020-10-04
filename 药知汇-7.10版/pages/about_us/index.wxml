@@ -1,0 +1,24 @@
+<view class="main">
+    <view class="goods-box">
+        <image src="/image/f1.jpg" class="goods-thumb" mode="aspectFill"></image>
+    </view>
+    <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">指导老师</view>
+        <view class="goods-content">
+            <view> <text class="l2_text">王东波：南京农业大学教授研究领域为自然语言处理</text></view>
+        </view>
+    </view>
+<view class="goods-tab-box">
+        <view class="goods_details" data-index="0">小组成员</view>
+        <view class="goods-content">
+            <view> <text class="l2_text">王之韵：南京农业大学本科三年级，信息管理与信息系统专业
+</text></view>
+<view> <text class="l2_text">刘欢：南京农业大学本科三年级，信息管理与信息系统专业
+</text></view>
+<view> <text class="l2_text">林文卫：南京农业大学本科三年级，信息管理与信息系统专业
+</text></view>
+        </view>
+    </view>
+  
+
+</view>

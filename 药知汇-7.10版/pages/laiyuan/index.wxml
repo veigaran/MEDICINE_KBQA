@@ -1,0 +1,22 @@
+<view class="main">
+    <view class="goods-box">
+        <image src="/image/f1.jpg" class="goods-thumb" mode="aspectFill"></image>
+    </view>
+    <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">大数据信息展示</view>
+    </view>
+  <view><text class="text_left" space="nbsp">药物数量：            </text><text class="text_right">8992种</text></view>  
+
+  <view><text class="text_left" space="nbsp">药物类别：            </text><text class="text_right">36种</text></view> 
+
+  <view><text class="text_left" space="nbsp">西药数量：            </text><text class="text_right">7384种</text></view> 
+
+  <view><text class="text_left" space="nbsp">中药数量：            </text><text class="text_right">1308种</text></view> 
+
+  <view><text class="text_left" space="nbsp">节点总数：            </text><text class="text_right">79182个</text></view> 
+
+  <view><text class="text_left" space="nbsp">关系总数：            </text><text class="text_right">359479个</text></view> 
+
+  <view><text class="text_left" space="nbsp">总字数：              </text><text class="text_right">17473398</text></view> 
+
+</view>

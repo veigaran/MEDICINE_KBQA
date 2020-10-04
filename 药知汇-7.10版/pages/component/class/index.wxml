@@ -1,0 +1,58 @@
+
+<i-cell-group>
+    <i-cell title="皮肤科用药" is-link url="/pages/page1/index">
+      <i-con class="iconfont icon-weibiaoti2" size="20" color="	#1E90FF" slot="icon" />
+    </i-cell>
+
+    <i-cell title="消化系统药物" is-link url="/pages/page2/index">
+      <i-con class="iconfont icon-leiyiyaoyongpinx" size="20" color="	#1E90FF" slot="icon" />
+    </i-cell>
+
+    <i-cell title="神经系统药物" is-link url="/pages/page3/index" only-tap-footer>
+      <i-con class="iconfont icon-yiyao-shiguan" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+    <i-cell title="抗微生物药" is-link url="/pages/page4/index" only-tap-footer>
+      <i-con class="iconfont icon-kcb_hangyeicon-" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+    <i-cell title="营养治疗药物" is-link url="/pages/page5/index" only-tap-footer>
+      <i-con class="iconfont icon-yiyao-wenduji" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+    <i-cell title="血液系统药物" is-link url="/pages/page6/index" only-tap-footer>
+      <i-con class="iconfont icon-yiyao-yibaoqia" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+    <i-cell title="循环系统药物" is-link url="/pages/page7/index" only-tap-footer>
+      <i-con class="iconfont icon-_yiyaoweisheng" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+    <i-cell title="治疗肿瘤的药物" is-link url="/pages/page8/index" only-tap-footer>
+      <i-con class="iconfont icon-yiyaojiankang" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+    <i-cell title="妇产科用药" is-link url="/pages/page9/index" only-tap-footer>
+      <i-con class="iconfont icon-yiyao" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+    <i-cell title="麻醉药" is-link url="/pages/page10/index" only-tap-footer>
+      <i-con class="iconfont icon-yaowu" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+    <i-cell title="抗精神失常药" is-link url="/pages/page11/index" only-tap-footer>
+     <i-con class="iconfont icon- icon-yaowu1" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+
+     <i-cell title="内分泌系统药物" is-link url="/pages/page12/index" only-tap-footer>
+    <i-con class="iconfont icon-travel_journey-" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+
+     <i-cell title="内分泌系统药物" is-link url="/pages/page12/index" only-tap-footer>
+     <i-con class="iconfont icon-travel_journey-" size="20" color="#80848f" slot="icon" />
+    </i-cell>
+   
+
+
+</i-cell-group>

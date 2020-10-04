@@ -1,0 +1,16 @@
+<view class="main">
+    <view class="goods-box">
+        <image src="/image/f1.jpg" class="goods-thumb" mode="aspectFill"></image>
+    </view>
+    <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">TF-IDF</view>
+        <view class="goods-content">
+            <view> <text class="l2_text">TF-IDF 是一种计算文档中词语权重的算法，它是由 Salton在 1988 年提出的。其中 TF 称为词频, 表示该次对于该文本的表示能力；IDF是逆文档频率, 体现了该词对于文档间的区分效果通过计算词汇的 TF-IDF 值，将文本转换为特征向量，可以使输入数据的特征更明显，提高文本分类的准确性。</text></view>
+   <view class="goods_details" data-index="0">朴素贝叶斯算法(Naive Bayesian algorithm)</view>
+   <view> <text class="l2_text">朴素贝叶斯法是基于贝叶斯定理与特征条件独立假设的分类方法.最为广泛的两种分类模型是决策树模型(Decision Tree Model)和朴素贝叶斯模型（Naive Bayesian Model，NBM）。和决策树模型相比，朴素贝叶斯分类器(Naive Bayes Classifier 或 NBC)发源于古典数学理论，有着坚实的数学基础，以及稳定的分类效率。同时，NBC模型所需估计的参数很少，对缺失数据不太敏感，算法也比较简单。理论上，NBC模型与其他分类方法相比具有最小的误差率。但是实际上并非总是如此，这是因为NBC模型假设属性之间相互独立，这个假设在实际应用中往往是不成立的，这给NBC模型的正确分类带来了一定影响。</text></view>
+        </view>
+    </view>
+
+  
+
+</view>

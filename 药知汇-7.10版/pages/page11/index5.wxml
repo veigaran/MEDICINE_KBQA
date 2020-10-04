@@ -1,0 +1,14 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">氟哌啶醇片
+</view>
+        <view class="goods-content">
+            <view>本品为糖衣片，除去包衣后显白色。用于急、慢性各型精神分裂症、躁狂症、抽动秽语综合症。控制兴奋躁动、敌对情绪和攻击行为的效果较好。因本品心血管系不良反应较少，也可用于脑器质性精神障碍和老年性精神障碍。
+</view>
+   
+        </view>
+    </view>
+
+</view>

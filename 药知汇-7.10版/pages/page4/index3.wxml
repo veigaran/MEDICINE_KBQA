@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">阿昔洛韦缓释片</view>
+        <view class="goods-content">
+            <view> 本品为白色片。本品适用于治疗下列疾病；1、急性带状疱疹：用于治疗急性带状疱疹。2、生殖器疱疹：用于初发和复发的生殖器疱疹。3、水痘：用于治疗水痘。
+</view>
+   
+        </view>
+    </view>
+    
+  </view>

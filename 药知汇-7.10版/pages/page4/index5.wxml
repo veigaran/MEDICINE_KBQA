@@ -1,0 +1,14 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">注射用盐酸诺氟沙星</view>
+        <view class="goods-content">
+            <view>本品为白色或类白色结晶性粉末。适用于敏感菌所致的呼吸道、尿路感染、淋病、前列腺炎、肠道感染和伤寒及其他沙门菌感染。
+
+</view>
+   
+        </view>
+    </view>
+
+</view>

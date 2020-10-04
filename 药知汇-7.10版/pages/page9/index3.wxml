@@ -1,0 +1,13 @@
+<view class="main">
+
+    
+ <view class="goods-tab-box">
+        <view class="goods_details" data-index="0">缩宫素注射液</view>
+        <view class="goods-content">
+            <view> 本品为无色澄明或几乎澄明的液体。	用于引产、催产、产后及流产后因宫缩无力或缩复不良而引起的子宫出血；了解胎盘储备功能（催产素激惹试验）。
+</view>
+   
+        </view>
+    </view>
+    
+  </view>

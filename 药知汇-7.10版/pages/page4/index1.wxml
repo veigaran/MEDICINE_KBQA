@@ -1,0 +1,15 @@
+<view class="main">
+
+
+<view class="goods-tab-box">
+        <view class="goods_details" data-index="0">阿维A胶囊</view>
+        <view class="goods-content">
+            <view> 本品为胶囊剂，内容物为黄色颗粒或粉末。适用于治疗以下疾病：1、严重的银屑病，其中包括红皮病型银屑病、脓疱型银屑病等。2、其它角化性皮肤病。
+</view>
+   
+        </view>
+    </view>
+  </view>
+ 
+    
+ 
