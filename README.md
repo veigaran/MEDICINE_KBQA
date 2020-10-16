@@ -4,7 +4,7 @@
 
 ### 1.1项目整体结构图
 
-![image-20201016191608117](C:\Users\ph\AppData\Roaming\Typora\typora-user-images\image-20201016191608117.png)
+![image-20201016191608117](https://gitee.com/veigara/images/raw/master/img/image-20201016191608117.png)
 
 ### 1.2数据构建模块
 
@@ -126,7 +126,7 @@ def wechat():
 
 ##### 1.2.1设置远程链接密码
 
-![image-20200303171401569](C:\Users\ph\AppData\Roaming\Typora\typora-user-images\image-20200303171401569.png)
+![image-20200303171401569](https://gitee.com/veigara/images/raw/master/img/image-20200303171401569.png)
 
 如图，点击重置密码，之后保存，方便在本地进行远程调试；
 
@@ -138,13 +138,13 @@ def wechat():
 
 ![image-20200303171654096](C:\Users\ph\AppData\Roaming\Typora\typora-user-images\image-20200303171654096.png)
 
-![image-20200303171710781](C:\Users\ph\AppData\Roaming\Typora\typora-user-images\image-20200303171710781.png)
+![image-20200303171710781](https://gitee.com/veigara/images/raw/master/img/image-20200303171710781.png)
 
 以上均为本次项目需开放的端口，其中80端口、8080端口、443端口、7474端口很重要
 
 若需添加其他端口规则，则进行配置即可，如下图
 
-![image-20200303171849566](C:\Users\ph\AppData\Roaming\Typora\typora-user-images\image-20200303171849566.png)
+![image-20200303171849566](https://gitee.com/veigara/images/raw/master/img/image-20200303171849566.png)
 
 #### 1.3服务器相关软件安装
 
@@ -213,7 +213,7 @@ workon py_flask
 
 发现命令行前出现（py_flask）即说明成功，如下图所示
 
-![image-20200303205546749](C:\Users\ph\AppData\Roaming\Typora\typora-user-images\image-20200303205546749.png)
+![image-20200303205546749](https://gitee.com/veigara/images/raw/master/img/image-20200303205546749.png)
 
 ##### virtualenvwrapper 命令
 
